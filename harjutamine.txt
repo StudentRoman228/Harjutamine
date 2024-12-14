@@ -1,1 +1,2 @@
 GitHub on versioonikontrolli ja projektide koostöö platvorm. Seda platvormi kasutavad arendajad, disainerid, projektijuhid ja teised spetsialistid.
+Saan kasutada GitHubi oma kooliprojektide salvestamiseks ja koodide osas teistega koostööd teha.
